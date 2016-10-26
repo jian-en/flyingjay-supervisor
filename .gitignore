@@ -1,0 +1,14 @@
+.env
+.idea
+.DS_Store
+staticfiles
+logs
+*.pyc
+*.pyo
+*.log
+*.log.*
+*.out
+*.pem
+*.tar
+*.rdb
+*.sql
