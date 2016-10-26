@@ -23,3 +23,7 @@ Gunicorn 19.6.0, 两个worker, 默认sync worker设置
 1. 安装: pip install supervisor
 2. 模块使用: supervisord, supervisorctl, httpserver
 3. 程序配置: program:x
+
+## Reference
+主要是受这篇帖子的启发:
+http://klen.github.io/py-frameworks-bench/
